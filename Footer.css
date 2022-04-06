@@ -1,0 +1,80 @@
+.logos{
+    justify-self: center;
+ }
+ .Footer-bar {
+     margin-top: 1rem;
+     padding:1rem;
+    position: relative;
+    background-color: black;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+ };
+ .Footer-menu{
+     justify-content: center;
+     align-items: center;
+     height: 80px;
+ }
+ 
+ .Flists{
+     justify-content: end;
+     height: 100%;
+     display: flex;
+     width: 60vw;
+     text-align: center;
+     margin-right: 1rem;
+ }
+ 
+ .Fitems{
+     list-style-type: none;
+     padding: 0rem 1rem;
+     
+     justify-content: center;
+     font-size: large;
+     color: white;
+     font-family: cursive;
+     
+ }
+ .Ftextitems{
+     color: white;
+     text-decoration: none;
+     justify-content: center;
+ }
+ 
+ 
+ 
+ .Footer-logos{
+     height: 80px;
+     width: 250px;
+     margin-left: 20px;
+     display: flex;
+     justify-self: center;
+     align-items: center;
+     align-content: center;
+ }
+ .social-container {
+    background: #eee;
+    padding: 25px 50px;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+ .facebook-social{
+    color: #4968ad;
+    padding: 0rem 1rem;
+    border:#4968ad ;
+ }
+ .instagram-social{
+    color: white;
+    padding: 0rem 1rem;
+ }
+ @media screen and (max-width:600px){
+     
+ }
+ 
